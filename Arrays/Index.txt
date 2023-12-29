@@ -1,0 +1,16 @@
+Lecture 9 Intro to arrays Youtube Babbar :--1,AUG,2022
+Basics of array theory:-
+
+Questions:->
+Min and Max of array
+Reverse Array
+Swap alternate
+Find unique element in array --doubt i.e is my code optimised or it can be
+Find duplicate in a array 
+Intersection of two array [1,2,3,4]. [2,4,6,8] --- doubt i.e is my code optimised or it can be
+Pair sum  
+Triplet sum
+Sort 0’s 1’s
+
+
+
